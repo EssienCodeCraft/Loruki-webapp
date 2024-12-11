@@ -1,9 +1,2 @@
-JS_Projects_Vanilla #HTML #Vanilla JS #Css #cloudinary
+# Loruki WebApp
 
-4 - Scroll App
-
-5 - Menu App
-
-6 - Reviews App
-
-7 - https://cloudinary.com/
